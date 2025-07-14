@@ -1,5 +1,5 @@
-import Bitchat from './NativeBitchat';
+import { NativeModules } from 'react-native';
 
-export function multiply(a: number, b: number): number {
-  return Bitchat.multiply(a, b);
-}
+const { Bitchat } = NativeModules;
+
+export default Bitchat;
