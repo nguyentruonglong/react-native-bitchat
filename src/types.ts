@@ -40,4 +40,4 @@ export interface ReadReceipt {
   timestamp: number;
 }
 
-export type DeliveryStatus = "PENDING" | "DELIVERED" | "READ";
+export type DeliveryStatus = 'PENDING' | 'DELIVERED' | 'READ';

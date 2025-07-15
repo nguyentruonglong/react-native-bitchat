@@ -2,9 +2,9 @@
 
 A decentralized, peer-to-peer messaging library for React Native using Bluetooth Low Energy (BLE) mesh networking, enabling secure, ephemeral, and infrastructure-independent communication. This module is inspired by the design principles outlined in [Jack Dorsey’s Bitchat Whitepaper](https://github.com/permissionlesstech/bitchat/blob/main/WHITEPAPER.md), which emphasizes a protocol for private, resilient communication without centralized infrastructure, leveraging BLE for mesh networking and end-to-end encryption for security.
 
-[![CI Status](https://github.com/nguyentruonglong/react-native-bitchat/actions/workflows/npm.yml/badge.svg)](https://github.com/nguyentruonglong/react-native-bitchat/actions)
-[![npm version](https://badge.fury.io/js/react-native-bitchat.svg)](https://badge.fury.io/js/react-native-bitchat)
-[![Documentation](https://img.shields.io/badge/docs-available-blue)](https://github.com/nguyentruonglong/react-native-bitchat/tree/main/docs)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nguyentruonglong/react-native-bitchat/blob/HEAD/LICENSE)
+[![npm package](https://img.shields.io/npm/v/react-native-bitchat?color=brightgreen&label=npm%20package)](https://www.npmjs.org/package/react-native-bitchat)
+[![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactnative.dev/docs/contributing)
 
 ## Installation
 
