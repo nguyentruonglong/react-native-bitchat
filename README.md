@@ -250,4 +250,4 @@ Contributions are welcome! Please fork the repository and submit pull requests. 
 
 ## License
 
-This project is licensed under the MIT License see the [LICENSE](LICENSE) file for details. When publishing to npm, ensure the `license` field in `package.json` is set to "MIT" and the `LICENSE` file is included in the package root, containing the full MIT License text to comply with npm's requirements for open-source distribution.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. The `license` field in `package.json` is set to "MIT", and the `LICENSE` file is included in the package root with the full MIT License text, complying with npm's requirement for open-source distribution.
