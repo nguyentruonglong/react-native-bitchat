@@ -1,6 +1,6 @@
 {
   "name": "react-native-bitchat",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A decentralized, peer-to-peer messaging library for React Native using Bluetooth Low Energy (BLE) mesh networking, enabling secure, ephemeral, and infrastructure-independent communication.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -32,6 +32,7 @@
     "!**/.*"
   ],
   "scripts": {
+    "example": "yarn workspace react-native-bitchat-example",
     "test": "jest",
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
